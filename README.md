@@ -63,5 +63,8 @@ Star Schema com 5 tabelas dimensão e 4 tabelas fato:
 - customer_unique_id vs customer_id — mesmo cliente com múltiplos IDs
 
 ## 🖼️ Dashboard
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDhhYzlhZGQtMTNjMC00NGU5LTgyZWYtYjA3MmVlMzA5NTM4IiwidCI6ImUxYjVkNjBhLWFmYjctNDRiMi1hYTUzLTY1NGEzYzYxNjAzMiJ9)
+
 ![Visão Geral](dashboard/screenshots/visao_geral.png)
 ![Entregas](dashboard/screenshots/entregas_satisfacao.png)
