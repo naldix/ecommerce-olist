@@ -30,7 +30,7 @@ Star Schema com 5 tabelas dimensão e 4 tabelas fato:
 
 ## 📊 Análises Realizadas
 
--- Dataset com dados de clientes e vendedores alterados (nomes), então não foram feitas análises diretas para esses segmentos
+-- Dataset com dados de clientes e vendedores alterados(nomes) pela Olist, então não foram feitas análises diretas para esses segmentos
 
 ### Vendas
 - Receita total: R$ 15,4M
