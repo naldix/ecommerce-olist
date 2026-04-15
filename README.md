@@ -30,6 +30,8 @@ Star Schema com 5 tabelas dimensão e 4 tabelas fato:
 
 ## 📊 Análises Realizadas
 
+-- Dataset com dados de clientes e vendedores alterados (nomes), então não foram feitas análises diretas para esses segmentos
+
 ### Vendas
 - Receita total: R$ 15,4M
 - Ticket médio: R$ 139,93
