@@ -31,6 +31,7 @@ Star Schema com 5 tabelas dimensão e 4 tabelas fato:
 ## 📊 Análises Realizadas
 
 -- Dataset com dados de clientes e vendedores alterados(nomes) pela Olist, então não foram feitas análises diretas para esses segmentos
+-- Análises feitas baseada em pedidos com status "delivered"
 
 ### Vendas
 - Receita total: R$ 15,4M
@@ -38,7 +39,7 @@ Star Schema com 5 tabelas dimensão e 4 tabelas fato:
 - Pico de vendas: Novembro/2017 (Black Friday)
 
 ### Clientes
-- 96.096 clientes únicos
+- 93.358 clientes únicos
 - 87% compraram apenas uma vez
 - Segmentação RFM: VIP, Recorrente, Alto Valor, Único
 
