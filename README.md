@@ -31,6 +31,7 @@ Star Schema com 5 tabelas dimensão e 4 tabelas fato:
 ## 📊 Análises Realizadas
 
 -- Dataset com dados de clientes e vendedores alterados(nomes) pela Olist, então não foram feitas análises diretas para esses segmentos
+
 -- Análises feitas baseada em pedidos com status "delivered"
 
 ### Vendas
