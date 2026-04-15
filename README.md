@@ -12,7 +12,7 @@ do período de 2016 a 2018.
 - Power BI Desktop
 
 ## 📂 Dataset
-- Fonte: [Olist Brazilian E-Commerce - Kaggle]([link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download))
+- Fonte: [Olist Brazilian E-Commerce - Kaggle][https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download]
 - 9 arquivos CSV
 - +1,5 milhão de registros
 
